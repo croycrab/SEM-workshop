@@ -16,7 +16,7 @@ library(MASS)
 
 ## Read in the data
 # For SEM analysis
-sem_data <- read.xlsx("Snyder_Lab_SEM_Example_Data.xlsx")
+sem_data <- read.xlsx("example data.xlsx")
 
 ## specify regression models and inspect (test model assumptions) -- there should be a model for each response variable, let's take a simple example:
 
